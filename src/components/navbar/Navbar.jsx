@@ -15,23 +15,23 @@ const Navbar = () => {
         </div>
         <ul className={navLinkOpen ? "navlinks active" : "navlinks"}>
           <li className="link">
-            <a href="About" className="fade-in">
+            <a href="Paintprojects" className="fade-in">
               Paint Projects
             </a>
           </li>
           <li className="link">
-            <a href="Projects" className="fade-in">
+            <a href="Recentworks" className="fade-in">
               Recent Works
             </a>
           </li>
           <li className="link">
-            <a href="Contact" className="fade-in">
+            <a href="Estimates" className="fade-in">
               Estimates
             </a>
           </li>
           <li className="link">
             <a href="Contact" className="fade-in">
-              Contact Me
+              Contact
             </a>
           </li>
         </ul>
