@@ -22,6 +22,8 @@ nav {
   display: flex;
   flex-direction: row;
   gap: 1rem;
+  list-style: none;
+  text-decoration: none;
 }
 
 .navlinks {
@@ -39,6 +41,8 @@ nav {
 
 .link > a  {
   color: rgba(255, 255, 255, 0.85);
+  list-style: none;
+  text-decoration: none;
 }
 
 .link > a:hover {
